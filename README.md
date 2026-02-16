@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Skyinhaler20932/Skyinhaler20932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,6 +60,3 @@ Currently growing my skills in cloud technologies, CI/CD, and containerization w
 - Writing cleaner Ansible playbooks
 
 ---
-
-## 🤝 Let's Connect
-
